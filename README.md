@@ -11,8 +11,6 @@ This repository contains the scripts used for the background fit, growth analysi
 
 Python 3.14 
 
-Required packages are in the .venv
-
 # Outputs
 
 ## The scripts generate:
