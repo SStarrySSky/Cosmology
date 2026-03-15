@@ -1,0 +1,11 @@
+z,obs,sigma,kind
+0.15,4.47,0.17,DV_over_rd
+0.106,3.047,0.137,DV_over_rd
+0.38,10.23,0.17,DM_over_rd
+0.38,25.0,0.76,DH_over_rd
+0.51,13.36,0.21,DM_over_rd
+0.51,22.3,0.58,DH_over_rd
+0.61,15.69,0.27,DM_over_rd
+0.61,20.9,0.5,DH_over_rd
+0.698,17.65,0.3,DM_over_rd
+1.48,30.21,0.79,DM_over_rd
